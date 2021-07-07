@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/number-uint16",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Utilities for unsigned 16-bit integers.",
   "license": "Apache-2.0",
   "author": {
