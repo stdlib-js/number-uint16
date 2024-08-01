@@ -36,7 +36,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/number-uint16-base": "^0.2.1",
+    "@stdlib/number-uint16-base": "^0.2.2",
     "@stdlib/utils-define-read-only-property": "^0.2.2"
   },
   "devDependencies": {
@@ -47,7 +47,7 @@
     "@stdlib/math-base-special-floor": "^0.2.3",
     "@stdlib/math-base-special-pow": "^0.3.0",
     "@stdlib/math-base-special-round": "^0.3.0",
-    "@stdlib/number-uint16-base-from-binary-string": "^0.2.1",
+    "@stdlib/number-uint16-base-from-binary-string": "^0.2.2",
     "@stdlib/number-uint16-base-to-binary-string": "^0.2.2",
     "@stdlib/random-base-randu": "^0.2.1",
     "@stdlib/string-format": "^0.2.2",
