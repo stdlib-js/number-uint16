@@ -57,7 +57,7 @@
     "@stdlib/number-uint16-base-to-binary-string": "^0.2.2",
     "@stdlib/random-array-discrete-uniform": "^0.2.1",
     "@stdlib/random-base-randu": "^0.2.1",
-    "@stdlib/string-format": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2",
     "@stdlib/string-left-pad": "^0.2.2",
     "@stdlib/utils-keys": "^0.2.2",
     "@stdlib/utils-try-require": "^0.2.2",
