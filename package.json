@@ -36,13 +36,13 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/number-uint16-base": "^0.2.2",
-    "@stdlib/utils-define-read-only-property": "^0.2.2"
+    "@stdlib/number-uint16-base": "^0.3.0",
+    "@stdlib/utils-define-read-only-property": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/array-uint16": "^0.2.2",
     "@stdlib/assert-is-string": "^0.2.2",
-    "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
+    "@stdlib/console-log-each-map": "^0.1.0",
     "@stdlib/constants-uint16-max": "^0.2.2",
     "@stdlib/math-base-assert-is-nan": "^0.2.2",
     "@stdlib/math-base-special-floor": "^0.2.3",
@@ -56,8 +56,8 @@
     "@stdlib/number-uint16-base-sub": "^0.1.0",
     "@stdlib/number-uint16-base-to-binary-string": "^0.2.2",
     "@stdlib/random-array-discrete-uniform": "^0.2.1",
-    "@stdlib/random-base-randu": "^0.2.1",
-    "@stdlib/string-format": "^0.2.2",
+    "@stdlib/random-base-randu": "^0.2.2",
+    "@stdlib/string-format": "^0.2.3",
     "@stdlib/string-left-pad": "^0.2.2",
     "@stdlib/utils-keys": "^0.2.2",
     "@stdlib/utils-try-require": "^0.2.2",
